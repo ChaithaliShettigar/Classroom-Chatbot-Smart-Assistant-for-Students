@@ -18,7 +18,7 @@ An AI-powered assistant designed to simplify classroom communication, reduce the
 * Student
 * Class Representative (CR)
 * Faculty
-• Ensures safe and controlled access
+  • Ensures safe and controlled access
 
 ### **👥 2. Group Chat System**
 
@@ -43,7 +43,7 @@ Everything is organized in one place instead of unstructured chat groups.
 * 1 day before
 * 1 hour before
 * Custom timings
-• Helps students avoid missing important tasks
+  • Helps students avoid missing important tasks
 
 ### **💬 4. Personal AI Chatbot**
 
@@ -64,8 +64,8 @@ When the chatbot cannot answer:
 * Send with name
 * Send anonymously
 * Don’t send
-• Admin receives the query and responds
-• Student receives the reply privately
+  • Admin receives the query and responds
+  • Student receives the reply privately
 
 This reduces repeated questions and ensures accurate answers for everyone.
 
@@ -79,7 +79,7 @@ How it works:
 • If Anonymous is selected, the message is forwarded as:
 
 * From: Anonymous User
-• Admin cannot see:
+  • Admin cannot see:
 * Name
 * Roll number
 * Email
@@ -121,4 +121,3 @@ Why anonymous mode is important:
 • Real-time notification system
 • Timetable generator
 • Faculty dashboard analytics
-
