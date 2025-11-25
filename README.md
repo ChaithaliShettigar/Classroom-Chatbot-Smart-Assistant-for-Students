@@ -167,7 +167,7 @@ Reply to student questions
 
 System notifies students instantly
 
-Future Enhancements (Optional)
+📌 Future Enhancements 
 
 Mobile app version
 
